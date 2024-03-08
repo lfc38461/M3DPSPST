@@ -1,0 +1,8 @@
+Vehicle route: 0 1 1 0 
+Satellite node: 1
+Machine: 1
+Jobs: 0 2 1 7 5 
+Machine: 0
+Jobs: 0 8 4 6 3 
+
+Makespan = 87.08326112068514
