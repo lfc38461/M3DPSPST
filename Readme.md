@@ -18,3 +18,11 @@ setuptimes
 "Solutions" folder shows a detailed scheduling plan for each instance, including the order of vehicle access and the order of workpiece processing.
 
 The CSV files provide detailed results for each instance sets, including detailed parameters such as gap and runtime.
+
+-----------------------------------------------------------------------
+
+"Instances-CL" folder contains the CL instance;
+
+"Instances-setA" folder contains the real-word instance Set A; "position coordinates.txt" provides the latitude and longitude corresponding to all locations in the setA example.
+
+"Results_of_All_Instances_with_New_Cplex.xlsx" provides all the results of running with the new version of Cplex.
